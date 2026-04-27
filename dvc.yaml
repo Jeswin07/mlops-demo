@@ -1,0 +1,10 @@
+stages:
+  pipeline:
+    cmd: python src/run.py
+    deps:
+    - src/run.py
+    outs:
+    - models/model.pkl
+    metrics:
+    - metrics.json:
+        cache: false

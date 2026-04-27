@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/anasb/OneDrive/Desktop/Data Science Btype/Week41MLOps1/mlops-demo/mlruns/829197566129452294/f5bae96d76354fc582197a513dbf39ab/artifacts
+end_time: 1777323476413
+entry_point_name: ''
+experiment_id: '829197566129452294'
+lifecycle_stage: active
+run_id: f5bae96d76354fc582197a513dbf39ab
+run_name: languid-gnu-419
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777323461461
+status: 3
+tags: []
+user_id: anasb

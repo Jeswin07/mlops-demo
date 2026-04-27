@@ -1,0 +1,18 @@
+schema: '2.0'
+stages:
+  pipeline:
+    cmd: python src/run.py
+    deps:
+    - path: src/run.py
+      hash: md5
+      md5: 6819cf5a5edf3604e920b27b17ebd096
+      size: 1337
+    outs:
+    - path: metrics.json
+      hash: md5
+      md5: 9a0379eaa11dd7b9e9995a62a5f21656
+      size: 17
+    - path: models/model.pkl
+      hash: md5
+      md5: c2245a7599d1c76b9c5056c74de08599
+      size: 187569

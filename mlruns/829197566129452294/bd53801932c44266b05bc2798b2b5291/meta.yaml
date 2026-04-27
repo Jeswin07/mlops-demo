@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/anasb/OneDrive/Desktop/Data Science Btype/Week41MLOps1/mlops-demo/mlruns/829197566129452294/bd53801932c44266b05bc2798b2b5291/artifacts
+end_time: 1777323677771
+entry_point_name: ''
+experiment_id: '829197566129452294'
+lifecycle_stage: active
+run_id: bd53801932c44266b05bc2798b2b5291
+run_name: fun-kit-420
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777323663000
+status: 3
+tags: []
+user_id: anasb

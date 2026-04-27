@@ -1,0 +1,10 @@
+artifact_location: file:C:/Users/anasb/OneDrive/Desktop/Data Science Btype/Week41MLOps1/mlops-demo/mlruns/829197566129452294/models/m-ff12a0c94e584b6cbb7c0b85751012b0/artifacts
+creation_timestamp: 1777323663623
+experiment_id: '829197566129452294'
+last_updated_timestamp: 1777323677734
+model_id: m-ff12a0c94e584b6cbb7c0b85751012b0
+model_type: null
+name: model
+source_run_id: bd53801932c44266b05bc2798b2b5291
+status: 2
+status_message: null
